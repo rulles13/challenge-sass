@@ -1,0 +1,19 @@
+{
+  "name": "challenge-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./SASS/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rulles13/challenge-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rulles13/challenge-sass/issues"
+  },
+  "homepage": "https://github.com/rulles13/challenge-sass#readme"
+}
