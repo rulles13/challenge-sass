@@ -1,3 +1,4 @@
-body{
-  background-color: pink;
-}
+@import "./color";
+@import "./layout";
+@import "./reset";
+@import "./typography";
